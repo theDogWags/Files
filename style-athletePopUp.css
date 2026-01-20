@@ -1,6 +1,10 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
 .embedContainer {
     overflow: hidden;
-    background: green;
+    background: #e2e2e2;
 }
 
 .bioSection {
@@ -9,13 +13,43 @@
 
 .headshotAndBasicInfo {
     display: flex;
+    flex-direction: column;
 }
+
 .headshot {
     flex: 1;
 }
+
 .headshot img{
     display:block;
 }
+
 .basicInfo {
     flex: 3;
+}
+
+.athleteName {
+}
+
+.athleteFirstName {
+}
+
+.athleteLastName {
+}
+
+.quickFacts {
+}
+
+.introWords {
+    font-weight: 700;
+}
+
+/* 800px and higher _________________________________________________________________________________________________________________________________________________________________________*/
+@media (min-width:800px){
+.headshotAndBasicInfo {
+    height: 300px;
+    flex-direction: row;
+}
+
+
 }
