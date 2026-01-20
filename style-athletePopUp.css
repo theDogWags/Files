@@ -48,6 +48,7 @@ body {
 
 .athleteFirstName {
     font-size: 25px;
+    line-height: 15px;
 }
 
 .athleteLastName {
