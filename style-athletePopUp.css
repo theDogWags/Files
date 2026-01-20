@@ -66,8 +66,10 @@ body {
 }
 .programName {
     padding: 5px;
+    display: none;
 }
 .coaches {
+    padding: 5px;
 }
 .quickFacts {
 }
