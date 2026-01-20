@@ -15,6 +15,7 @@ body {
 .headshotAndBasicInfo {
     display: flex;
     flex-direction: column;
+    background: yellow;
 }
 
 .headshot {
