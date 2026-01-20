@@ -22,7 +22,8 @@ body {
 
 .headshot img{
     display:block;
-    height: 100%;
+    height: auto;
+    width: 100%;
 }
 
 .basicInfo {
@@ -51,6 +52,9 @@ body {
     height: 300px;
     flex-direction: row;
 }
-
+.headshot img{
+    height: 100%;
+    width: auto;
+}
 
 }
