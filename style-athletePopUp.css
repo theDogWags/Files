@@ -1,0 +1,21 @@
+.embedContainer {
+    overflow: hidden;
+    background: red;
+}
+
+.bioSection {
+
+}
+
+.headshotAndBasicInfo {
+    display: flex;
+}
+.headshot {
+    flex: 1;
+}
+.headshot img{
+    display:block;
+}
+.basicInfo {
+    flex: 3;
+}
