@@ -53,6 +53,9 @@ body {
 
 .quickFacts {
 }
+.quickFact {
+    padding: 5px;
+}
 
 .introWords {
     font-weight: 700;
