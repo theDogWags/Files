@@ -42,12 +42,13 @@ body {
 }
 
 .athleteFirstName {
-    font-size: 17px;
+    font-size: 25px;
 }
 
 .athleteLastName {
-    font-size: 25px;
+    font-size: 50px;
     font-weight: 700;
+    text-transform: uppercase;
 }
 
 .quickFacts {
