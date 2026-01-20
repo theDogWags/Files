@@ -9,7 +9,9 @@ body {
 .embedContainer {
     overflow: hidden;
 }
-
+ul {
+  padding-bottom: 20px;
+}
 .bioSection {
     margin: 15px;
     background-color: #ffffff;
