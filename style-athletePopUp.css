@@ -22,6 +22,7 @@ body {
 
 .headshot img{
     display:block;
+    height: 100%;
 }
 
 .basicInfo {
