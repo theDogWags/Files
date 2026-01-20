@@ -57,7 +57,18 @@ body {
     font-weight: 900;
     text-transform: uppercase;
 }
-
+.athleteSubtext {
+    color: #cccccc;
+}
+.clubName {
+    font-weight: 700;
+    padding: 5px;
+}
+.programName {
+    padding: 5px;
+}
+.coaches {
+}
 .quickFacts {
 }
 .quickFact {
