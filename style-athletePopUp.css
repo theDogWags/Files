@@ -97,6 +97,7 @@ li {
 }
 .headshot {
     height: 100%;
+    box-shadow: 6px 0 14px rgba(0, 0, 0, 0.12);
 }
 .headshot img{
     height: 100%;
