@@ -11,6 +11,11 @@ body {
 .bioSection {
     padding: 10px;
 }
+.bioSectionHeader {
+    font-weight: 700;
+    text-transform: uppercase;
+    border-bottom: 1px solid #333333;
+}
 
 .headshotAndBasicInfo {
     display: flex;
