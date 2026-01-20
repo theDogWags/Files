@@ -29,7 +29,7 @@ body {
 .headshotAndBasicInfo {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: normal;
     padding: 0px;
     overflow: hidden;
 }
@@ -94,6 +94,7 @@ li {
 .headshotAndBasicInfo {
     height: 300px;
     flex-direction: row;
+    align-items: center;
 }
 .headshot {
     height: 100%;
