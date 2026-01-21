@@ -87,6 +87,12 @@ ul {
 .introWords {
     font-weight: 700;
 }
+.bioResultEventName {
+  font-weight: 700;
+}
+.bioResult {
+  color: #999999;
+}
 li {
   padding: 5px;
   line-height: 25px;
