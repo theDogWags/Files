@@ -18,6 +18,7 @@ ul {
     border-radius: 20px;
     outline: 1px solid #cccccc;
     box-sizing: border-box;
+  font-size: 15px;
 }
 .bioSectionHeader {
     font-weight: 900;
@@ -89,9 +90,11 @@ ul {
 }
 .bioResultEventName {
   font-weight: 700;
+  font-size: 15px;
 }
 .bioResult {
   color: #999999;
+  font-size: 14px;
 }
 li {
   padding: 5px;
