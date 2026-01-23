@@ -146,40 +146,5 @@
             <Place event="4" rank="18" order="18"/>
          </Places>
       </Athlete>
-      <Athlete Type="ARTWSR" CompNum="214" FirstName="Gabrielle" LastName="Hardie" AgeGrp="Senior" USAGNum="1045315">
-         <Scores>
-            <Score event="1" avgscore="13.800" startval="4.600" bscore="9.200">
-               <JudgeScore id="1" score="9.300"/>
-               <JudgeScore id="2" score="9.100"/>
-               <JudgeScore id="3" score="9.300"/>
-               <JudgeScore id="4" score="9.100"/>
-            </Score>
-            <Score event="2" avgscore="13.200" startval="5.400" bscore="7.800">
-               <JudgeScore id="1" score="8.000"/>
-               <JudgeScore id="2" score="7.800"/>
-               <JudgeScore id="3" score="7.600"/>
-               <JudgeScore id="4" score="7.800"/>
-            </Score>
-            <Score event="3" avgscore="12.900" startval="4.800" bscore="8.100">
-               <JudgeScore id="1" score="7.700"/>
-               <JudgeScore id="2" score="8.200"/>
-               <JudgeScore id="3" score="8.000"/>
-               <JudgeScore id="4" score="8.200"/>
-            </Score>
-            <Score event="4" avgscore="13.850" startval="5.300" bscore="8.550">
-               <JudgeScore id="1" score="8.600"/>
-               <JudgeScore id="2" score="8.600"/>
-               <JudgeScore id="3" score="8.500"/>
-               <JudgeScore id="4" score="8.200"/>
-            </Score>
-            <Score event="AA" avgscore="53.750"/>
-         </Scores>
-         <Places>
-            <Place event="AA" rank="5" order="5"/>
-            <Place event="2" rank="11" order="11"/>
-            <Place event="3" rank="14" order="14"/>
-            <Place event="4" rank="4" order="4"/>
-         </Places>
-      </Athlete>
    </AthleteResults>
 </MeetResultsMsg>
