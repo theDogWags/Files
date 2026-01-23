@@ -3,30 +3,10 @@
    <AthleteResults>
       <Athlete Type="ARTWSR" CompNum="219" FirstName="Hezly" LastName="Rivera" AgeGrp="Senior" USAGNum="957625">
          <Scores>
-            <Score event="1" avgscore="13.800" startval="5.000" bscore="9.100" adj="-0.300">
-               <JudgeScore id="1" score="9.200"/>
-               <JudgeScore id="2" score="9.100"/>
-               <JudgeScore id="3" score="9.000"/>
-               <JudgeScore id="4" score="9.100"/>
-            </Score>
-            <Score event="2" avgscore="13.450" startval="6.000" bscore="7.450">
-               <JudgeScore id="1" score="7.700"/>
-               <JudgeScore id="2" score="7.400"/>
-               <JudgeScore id="3" score="7.500"/>
-               <JudgeScore id="4" score="7.400"/>
-            </Score>
-            <Score event="3" avgscore="14.350" startval="6.400" bscore="7.950">
-               <JudgeScore id="1" score="7.900"/>
-               <JudgeScore id="2" score="8.100"/>
-               <JudgeScore id="3" score="8.000"/>
-               <JudgeScore id="4" score="7.600"/>
-            </Score>
-            <Score event="4" avgscore="14.000" startval="5.800" bscore="8.200">
-               <JudgeScore id="1" score="8.400"/>
-               <JudgeScore id="2" score="8.200"/>
-               <JudgeScore id="3" score="8.100"/>
-               <JudgeScore id="4" score="8.200"/>
-            </Score>
+            <Score event="1" avgscore="" startval="5.000" bscore="9.100" adj="-0.300"></Score>
+            <Score event="2" avgscore="22.000" startval="6.000" bscore="7.450"></Score>
+            <Score event="3" avgscore="14.350" startval="6.400" bscore="7.950"></Score>
+            <Score event="4" avgscore="14.000" startval="5.800" bscore="8.200"></Score>
             <Score event="AA" avgscore="55.600"/>
          </Scores>
          <Places>
