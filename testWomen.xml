@@ -5,7 +5,7 @@
          <Scores>
             <Score event="1" avgscore="23.000" startval="5.000" bscore="9.100" adj="-0.300"></Score>
             <Score event="2" avgscore="22.000" startval="6.000" bscore="7.450"></Score>
-            <Score event="3" avgscore="" startval="6.400" bscore="7.950"></Score>
+            <Score event="3" avgscore="24.000" startval="6.400" bscore="7.950"></Score>
             <Score event="4" avgscore="14.000" startval="5.800" bscore="8.200"></Score>
             <Score event="AA" avgscore=""/>
          </Scores>
