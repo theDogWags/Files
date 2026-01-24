@@ -6,7 +6,7 @@
             <Score event="1" avgscore="17.000" startval="5.000" bscore="9.100" adj="-0.300"></Score>
             <Score event="2" avgscore="21.000" startval="6.000" bscore="7.450"></Score>
             <Score event="3" avgscore="12.000" startval="6.400" bscore="7.950"></Score>
-            <Score event="4" avgscore="13.000" startval="5.800" bscore="8.200"></Score>
+            <Score event="4" avgscore="14.000" startval="5.800" bscore="8.200"></Score>
             <Score event="AA" avgscore="22.000"/>
          </Scores>
          <Places>
@@ -23,7 +23,7 @@
             <Score event="2" avgscore="13.650" startval="5.900" bscore="7.750">
 
             </Score>
-            <Score event="3" avgscore="15.800" startval="6.200" bscore="7.600">
+            <Score event="3" avgscore="13.800" startval="6.200" bscore="7.600">
 
             </Score>
             <Score event="4" avgscore="14.150" startval="6.500" bscore="7.750" adj="-0.100">
@@ -46,7 +46,7 @@
             <Score event="2" avgscore="13.550" startval="5.700" bscore="7.850">
 
             </Score>
-            <Score event="3" avgscore="15.750" startval="5.400" bscore="8.350">
+            <Score event="3" avgscore="12.750" startval="5.400" bscore="8.350">
 
             </Score>
             <Score event="4" avgscore="13.800" startval="5.300" bscore="8.500">
