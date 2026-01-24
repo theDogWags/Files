@@ -46,7 +46,7 @@
             <Score event="2" avgscore="13.550" startval="5.700" bscore="7.850">
 
             </Score>
-            <Score event="3" avgscore="13.750" startval="5.400" bscore="8.350">
+            <Score event="3" avgscore="15.750" startval="5.400" bscore="8.350">
 
             </Score>
             <Score event="4" avgscore="13.800" startval="5.300" bscore="8.500">
@@ -83,7 +83,7 @@
                <JudgeScore id="4" score="7.800"/>
             </Score>
             <Score event="4" avgscore="12.350" startval="5.500" bscore="6.850">
-               <JudgeScore id="1" score="6.800"/>
+               <JudgeScore id="1" score="16.800"/>
                <JudgeScore id="2" score="6.900"/>
                <JudgeScore id="3" score="7.200"/>
                <JudgeScore id="4" score="6.800"/>
