@@ -34,7 +34,7 @@
       <Athlete Type="ARTWSR" CompNum="217" FirstName="Leanne" LastName="Wong" AgeGrp="Senior" USAGNum="431412">
          <Scores>
             <Score event="1" avgscore="53.675" startval="5.000" bscore="9.000" score="14.000" startval2="4.200" bscore2="8.750" avebonus="0.200" score2="12.950"></Score>
-            <Score event="2" avgscore="23.550" startval="5.700" bscore="7.850"></Score>
+            <Score event="2" avgscore="30.550" startval="5.700" bscore="7.850"></Score>
             <Score event="3" avgscore="62.750" startval="5.400" bscore="8.350"></Score>
             <Score event="4" avgscore="80.800" startval="5.300" bscore="8.500"></Score>
             <Score event="AA" avgscore="55.100"/>
