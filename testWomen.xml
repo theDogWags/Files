@@ -3,7 +3,7 @@
    <AthleteResults>
       <Athlete Type="ARTWSR" CompNum="219" FirstName="Hezly" LastName="Rivera" AgeGrp="Senior" USAGNum="957625">
          <Scores>
-            <Score event="1" avgscore="19.000" startval="5.000" bscore="9.100" adj="-0.300"></Score>
+            <Score event="1" avgscore="20.000" startval="5.000" bscore="9.100" adj="-0.300"></Score>
             <Score event="2" avgscore="21.000" startval="6.000" bscore="7.450"></Score>
             <Score event="3" avgscore="12.000" startval="6.400" bscore="7.950"></Score>
             <Score event="4" avgscore="14.000" startval="5.800" bscore="8.200"></Score>
