@@ -100,7 +100,10 @@ li {
   padding: 5px;
   line-height: 25px;
 }
-
+.socialLinks {
+  background-color: transparent;
+  border: none;
+}
 .socialLinks .bioSectionContent {
   text-align: center;
 }
