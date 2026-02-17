@@ -100,9 +100,13 @@ li {
   padding: 5px;
   line-height: 25px;
 }
+
+.socialLinks .bioSectionContent {
+  text-align: center;
+}
 .athleteSocialIcon {
-  width: 125px;
-  height: 125px;
+  width: 75px;
+  height: 75px;
   display: inline-block;
 }
 .athleteSocialIcon img {
