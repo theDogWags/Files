@@ -100,7 +100,17 @@ li {
   padding: 5px;
   line-height: 25px;
 }
-
+.athleteSocialIcon {
+  width: 125px;
+  height: 125px;
+  display: inline-block;
+}
+.athleteSocialIcon img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
 /* 800px and higher _________________________________________________________________________________________________________________________________________________________________________*/
 @media (min-width:800px){
 .headshotAndBasicInfo {
