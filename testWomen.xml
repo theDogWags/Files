@@ -18,7 +18,7 @@
       </Athlete>
       <Athlete Type="ARTWSR" CompNum="215" FirstName="Joscelyn" LastName="Roberson" AgeGrp="Senior" USAGNum="537959">
          <Scores>
-            <Score event="1" avgscore="50.000" startval="5.000" bscore="8.800"></Score>
+            <Score event="1" avgscore="40.000" startval="5.000" bscore="8.800"></Score>
             <Score event="2" avgscore="52.000" startval="5.900" bscore="7.750"></Score>
             <Score event="3" avgscore="41.800" startval="6.200" bscore="7.600"></Score>
             <Score event="4" avgscore="14.150" startval="6.500" bscore="7.750" adj="-0.100"></Score>
