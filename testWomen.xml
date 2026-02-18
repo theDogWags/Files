@@ -4,7 +4,7 @@
       <Athlete Type="ARTWSR" CompNum="219" FirstName="Hezly" LastName="Rivera" AgeGrp="Senior" USAGNum="957625">
          <Scores>
             <Score event="1" avgscore="20.000" startval="5.000" bscore="9.100" adj="-0.300"></Score>
-            <Score event="2" avgscore="20.000" startval="6.000" bscore="7.450"></Score>
+            <Score event="2" avgscore="30.000" startval="6.000" bscore="7.450"></Score>
             <Score event="3" avgscore="40.000" startval="6.400" bscore="7.950"></Score>
             <Score event="4" avgscore="40.000" startval="5.800" bscore="8.200"></Score>
             <Score event="AA" avgscore="22.000"/>
@@ -20,7 +20,7 @@
          <Scores>
             <Score event="1" avgscore="30.000" startval="5.000" bscore="8.800"></Score>
             <Score event="2" avgscore="30.000" startval="5.900" bscore="7.750"></Score>
-            <Score event="3" avgscore="81.800" startval="6.200" bscore="7.600"></Score>
+            <Score event="3" avgscore="41.800" startval="6.200" bscore="7.600"></Score>
             <Score event="4" avgscore="14.150" startval="6.500" bscore="7.750" adj="-0.100"></Score>
             <Score event="AA" avgscore="5.400"/>
          </Scores>
@@ -36,7 +36,7 @@
             <Score event="1" avgscore="40.000" startval="5.000" bscore="9.000" score="14.000" startval2="4.200" bscore2="8.750" avebonus="0.200" score2="12.950"></Score>
             <Score event="2" avgscore="61.550" startval="5.700" bscore="7.850"></Score>
             <Score event="3" avgscore="50.000" startval="5.400" bscore="8.350"></Score>
-            <Score event="4" avgscore="80.800" startval="5.300" bscore="8.500"></Score>
+            <Score event="4" avgscore="20.800" startval="5.300" bscore="8.500"></Score>
             <Score event="AA" avgscore="55.100"/>
          </Scores>
          <Places>
@@ -50,7 +50,7 @@
       <Athlete Type="ARTWSR" CompNum="220" FirstName="Dulcy" LastName="Caylor" AgeGrp="Senior" USAGNum="1026107">
          <Scores>
             <Score event="1" avgscore="60.000" startval="5.000" bscore="9.000"></Score>
-            <Score event="2" avgscore="13.600" startval="5.600" bscore="8.000"></Score>
+            <Score event="2" avgscore="23.600" startval="5.600" bscore="8.000"></Score>
             <Score event="3" avgscore="10.850" startval="5.900" bscore="7.950"></Score>
             <Score event="4" avgscore="42.350" startval="5.500" bscore="6.850"></Score>
             <Score event="AA" avgscore="53.800"/>
