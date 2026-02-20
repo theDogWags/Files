@@ -3,7 +3,7 @@
    <AthleteResults>
       <Athlete Type="ARTWSR" CompNum="219" FirstName="Hezly" LastName="Rivera" AgeGrp="Senior" USAGNum="957625">
          <Scores>
-            <Score event="1" avgscore="10.000" startval="5.000" bscore="9.100" adj="-0.300"></Score>
+            <Score event="1" avgscore="20.000" startval="5.000" bscore="9.100" adj="-0.300"></Score>
             <Score event="2" avgscore="30.000" startval="6.000" bscore="7.450"></Score>
             <Score event="3" avgscore="40.000" startval="6.400" bscore="7.950"></Score>
             <Score event="4" avgscore="40.000" startval="5.800" bscore="8.200"></Score>
@@ -18,7 +18,7 @@
       </Athlete>
       <Athlete Type="ARTWSR" CompNum="215" FirstName="Joscelyn" LastName="Roberson" AgeGrp="Senior" USAGNum="537959">
          <Scores>
-            <Score event="1" avgscore="10.000" startval="5.000" bscore="8.800"></Score>
+            <Score event="1" avgscore="30.000" startval="5.000" bscore="8.800"></Score>
             <Score event="2" avgscore="20.000" startval="5.900" bscore="7.750"></Score>
             <Score event="3" avgscore="41.800" startval="6.200" bscore="7.600"></Score>
             <Score event="4" avgscore="14.150" startval="6.500" bscore="7.750" adj="-0.100"></Score>
@@ -36,7 +36,7 @@
             <Score event="1" avgscore="30.000" startval="5.000" bscore="9.000" score="20.000" startval2="4.200" bscore2="9.750" avebonus="0.200" score2="30.000"></Score>
             <Score event="2" avgscore="22.550" startval="5.700" bscore="7.850"></Score>
             <Score event="3" avgscore="30.000" startval="5.400" bscore="8.350"></Score>
-            <Score event="4" avgscore="30.800" startval="5.300" bscore="8.500"></Score>
+            <Score event="4" avgscore="60.800" startval="5.300" bscore="8.500"></Score>
             <Score event="AA" avgscore="55.100"/>
          </Scores>
          <Places>
