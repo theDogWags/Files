@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<MeetResultsMsg Type="ARTMSR" EventID="wc25m" Session="2M">
+   <AthleteResults>
+      <Athlete Type="ARTMSR" CompNum="22" FirstName="Riley" LastName="Loos" AgeGrp="Senior" USAGNum="405664">
+         <Scores>
+            <Score event="AA" avgscore="120.200"/>
+            <Score event="1" avgscore="27.700" meet1="13.800" meet2="13.900" startval="5.000" bscore="8.700" adj="0.100">
+               <JudgeScore id="1" score="8.800"/>
+               <JudgeScore id="2" score="8.600"/>
+            </Score>
+            <Score event="2" avgscore="25.250" meet1="12.950" meet2="12.300" startval="5.000" bscore="7.950">
+               <JudgeScore id="1" score="8.000"/>
+               <JudgeScore id="2" score="7.900"/>
+            </Score>
+            <Score event="3" avgscore="13.550" meet1="0.000" meet2="13.550">
+            </Score>
+            <Score event="4" avgscore="14.500" meet1="0.000" meet2="14.500">
+            </Score>
+            <Score event="5" avgscore="12.800" meet1="0.000" meet2="12.800">
+            </Score>
+            <Score event="6" avgscore="26.400" meet1="13.050" meet2="13.350" startval="4.900" bscore="8.150">
+               <JudgeScore id="1" score="8.200"/>
+               <JudgeScore id="2" score="8.100"/>
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="1" order="1"/>
+            <Place event="1" rank="1" order="1"/>
+            <Place event="2" rank="5" order="5"/>
+            <Place event="3" rank="11" order="11"/>
+            <Place event="4" rank="10" order="10"/>
+            <Place event="5" rank="20" order="20"/>
+            <Place event="6" rank="2" order="2"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="43" FirstName="Fred" LastName="Richard" AgeGrp="Senior" USAGNum="516955">
+         <Scores>
+            <Score event="AA" avgscore="118.950"/>
+            <Score event="1" avgscore="27.250" meet1="13.200" meet2="14.050" startval="5.500" bscore="8.000" adj="-0.300">
+               <JudgeScore id="1" score="8.000"/>
+               <JudgeScore id="2" score="8.000"/>
+            </Score>
+            <Score event="2" avgscore="25.300" meet1="12.400" meet2="12.900" startval="5.100" bscore="7.600" adj="-0.300">
+               <JudgeScore id="1" score="7.700"/>
+               <JudgeScore id="2" score="7.500"/>
+            </Score>
+            <Score event="3" avgscore="26.400" meet1="13.450" meet2="12.950" startval="5.200" bscore="8.250">
+               <JudgeScore id="1" score="8.300"/>
+               <JudgeScore id="2" score="8.200"/>
+            </Score>
+            <Score event="4" avgscore="13.100" meet1="0.000" meet2="13.100">
+            </Score>
+            <Score event="5" avgscore="13.550" meet1="0.000" meet2="13.550">
+            </Score>
+            <Score event="6" avgscore="13.350" meet1="0.000" meet2="13.350">
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="2" order="2"/>
+            <Place event="1" rank="3" order="3"/>
+            <Place event="2" rank="4" order="4"/>
+            <Place event="3" rank="3" order="3"/>
+            <Place event="4" rank="20" order="20"/>
+            <Place event="5" rank="18" order="18"/>
+            <Place event="6" rank="15" order="15"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="30" FirstName="Taylor" LastName="Christopulos" AgeGrp="Senior" USAGNum="380444">
+         <Scores>
+            <Score event="AA" avgscore="118.400"/>
+            <Score event="1" avgscore="12.250" meet1="0.000" meet2="12.250">
+            </Score>
+            <Score event="2" avgscore="13.650" meet1="0.000" meet2="13.650">
+            </Score>
+            <Score event="3" avgscore="26.400" meet1="13.300" meet2="13.100" startval="4.400" bscore="8.900">
+               <JudgeScore id="1" score="8.700"/>
+               <JudgeScore id="2" score="9.100"/>
+            </Score>
+            <Score event="4" avgscore="27.900" meet1="13.800" meet2="14.100" startval="4.800" bscore="9.100" adj="-0.100">
+               <JudgeScore id="1" score="9.200"/>
+               <JudgeScore id="2" score="9.000"/>
+            </Score>
+            <Score event="5" avgscore="25.600" meet1="12.500" meet2="13.100" startval="4.700" bscore="7.800">
+               <JudgeScore id="1" score="7.900"/>
+               <JudgeScore id="2" score="7.700"/>
+            </Score>
+            <Score event="6" avgscore="12.600" meet1="0.000" meet2="12.600">
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="3" order="3"/>
+            <Place event="1" rank="24" order="24"/>
+            <Place event="2" rank="14" order="14"/>
+            <Place event="3" rank="2" order="2"/>
+            <Place event="4" rank="3" order="3"/>
+            <Place event="5" rank="7" order="7"/>
+            <Place event="6" rank="20" order="20"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="34" FirstName="*Jun" LastName="Iwai" AgeGrp="Senior" USAGNum="965902">
+         <Scores>
+            <Score event="AA" avgscore="117.850"/>
+            <Score event="1" avgscore="27.600" meet1="14.000" meet2="13.600" startval="5.600" bscore="8.400">
+               <JudgeScore id="1" score="8.500"/>
+               <JudgeScore id="2" score="8.300"/>
+            </Score>
+            <Score event="2" avgscore="24.550" meet1="12.350" meet2="12.200" startval="4.500" bscore="7.850">
+               <JudgeScore id="1" score="7.700"/>
+               <JudgeScore id="2" score="8.000"/>
+            </Score>
+            <Score event="3" avgscore="12.500" meet1="0.000" meet2="12.500">
+            </Score>
+            <Score event="4" avgscore="14.150" meet1="0.000" meet2="14.150">
+            </Score>
+            <Score event="5" avgscore="13.300" meet1="0.000" meet2="13.300">
+            </Score>
+            <Score event="6" avgscore="25.750" meet1="13.250" meet2="12.500" startval="5.100" bscore="8.150">
+               <JudgeScore id="1" score="8.200"/>
+               <JudgeScore id="2" score="8.100"/>
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="4" order="4"/>
+            <Place event="1" rank="2" order="2"/>
+            <Place event="2" rank="6" order="6"/>
+            <Place event="3" rank="18" order="18"/>
+            <Place event="4" rank="14" order="14"/>
+            <Place event="5" rank="19" order="19"/>
+            <Place event="6" rank="5" order="5"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="37" FirstName="*Sasha" LastName="Bogonosiuk" AgeGrp="Senior" USAGNum="588571">
+         <Scores>
+            <Score event="AA" avgscore="117.250"/>
+            <Score event="1" avgscore="13.200" meet1="0.000" meet2="13.200">
+            </Score>
+            <Score event="2" avgscore="12.400" meet1="0.000" meet2="12.400">
+            </Score>
+            <Score event="3" avgscore="11.800" meet1="0.000" meet2="11.800">
+            </Score>
+            <Score event="4" avgscore="26.950" meet1="13.725" meet2="13.225" startval="4.400" bscore="9.450" adj="0.100" score="13.950" startval2="4.800" bscore2="8.800" adj2="-0.100" score2="13.500">
+               <JudgeScore id="1" att="1" score="9.500"/>
+               <JudgeScore id="2" att="1" score="9.400"/>
+               <JudgeScore id="1" att="2" score="9.000"/>
+               <JudgeScore id="2" att="2" score="8.600"/>
+            </Score>
+            <Score event="5" avgscore="26.500" meet1="13.300" meet2="13.200" startval="4.500" bscore="8.800">
+               <JudgeScore id="1" score="8.800"/>
+               <JudgeScore id="2" score="8.800"/>
+            </Score>
+            <Score event="6" avgscore="25.650" meet1="12.950" meet2="12.700" startval="3.900" bscore="9.050">
+               <JudgeScore id="1" score="9.100"/>
+               <JudgeScore id="2" score="9.000"/>
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="5" order="5"/>
+            <Place event="1" rank="19" order="19"/>
+            <Place event="2" rank="20" order="20"/>
+            <Place event="3" rank="23" order="23"/>
+            <Place event="4" rank="5" order="5"/>
+            <Place event="5" rank="2" order="2"/>
+            <Place event="6" rank="6" order="6"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="1" FirstName="Taylor" LastName="Burkhart" AgeGrp="Senior" USAGNum="420200">
+         <Scores>
+            <Score event="AA" avgscore="117.050"/>
+            <Score event="1" avgscore="25.400" meet1="12.650" meet2="12.750" startval="5.100" bscore="7.650" adj="-0.100">
+               <JudgeScore id="1" score="7.700"/>
+               <JudgeScore id="2" score="7.600"/>
+            </Score>
+            <Score event="2" avgscore="25.950" meet1="12.500" meet2="13.450" startval="4.900" bscore="7.600">
+               <JudgeScore id="1" score="7.800"/>
+               <JudgeScore id="2" score="7.400"/>
+            </Score>
+            <Score event="3" avgscore="13.200" meet1="0.000" meet2="13.200" bscore="0.000">
+            </Score>
+            <Score event="4" avgscore="14.200" meet1="0.000" meet2="14.200" bscore="0.000">
+            </Score>
+            <Score event="5" avgscore="13.800" meet1="0.000" meet2="13.800" bscore="0.000">
+            </Score>
+            <Score event="6" avgscore="24.500" meet1="12.150" meet2="12.350" startval="5.100" bscore="7.050">
+               <JudgeScore id="1" score="7.300"/>
+               <JudgeScore id="2" score="6.800"/>
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="6" order="6"/>
+            <Place event="1" rank="9" order="9"/>
+            <Place event="2" rank="3" order="3"/>
+            <Place event="3" rank="12" order="12"/>
+            <Place event="4" rank="13" order="13"/>
+            <Place event="5" rank="17" order="17"/>
+            <Place event="6" rank="9" order="9"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="44" FirstName="Drake" LastName="Andrews" AgeGrp="Senior" USAGNum="574735">
+         <Scores>
+            <Score event="AA" avgscore="116.900"/>
+            <Score event="1" avgscore="25.950" meet1="13.000" meet2="12.950" startval="4.800" bscore="8.200">
+               <JudgeScore id="1" score="8.200"/>
+               <JudgeScore id="2" score="8.200"/>
+            </Score>
+            <Score event="2" avgscore="12.350" meet1="0.000" meet2="12.350">
+            </Score>
+            <Score event="3" avgscore="12.900" meet1="0.000" meet2="12.900">
+            </Score>
+            <Score event="4" avgscore="13.600" meet1="0.000" meet2="13.600">
+            </Score>
+            <Score event="5" avgscore="25.250" meet1="12.000" meet2="13.250" startval="4.300" bscore="7.700">
+               <JudgeScore id="1" score="7.700"/>
+               <JudgeScore id="2" score="7.700"/>
+            </Score>
+            <Score event="6" avgscore="26.850" meet1="13.500" meet2="13.350" startval="4.700" bscore="8.700" adj="0.100">
+               <JudgeScore id="1" score="8.700"/>
+               <JudgeScore id="2" score="8.700"/>
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="7" order="7"/>
+            <Place event="1" rank="8" order="8"/>
+            <Place event="2" rank="21" order="21"/>
+            <Place event="3" rank="15" order="15"/>
+            <Place event="4" rank="16" order="16"/>
+            <Place event="5" rank="9" order="9"/>
+            <Place event="6" rank="1" order="1"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="24" FirstName="*Danila" LastName="Leykin" AgeGrp="Senior" USAGNum="980033">
+         <Scores>
+            <Score event="AA" avgscore="116.600"/>
+            <Score event="1" avgscore="12.800" meet1="0.000" meet2="12.800">
+            </Score>
+            <Score event="2" avgscore="12.550" meet1="0.000" meet2="12.550">
+            </Score>
+            <Score event="3" avgscore="12.350" meet1="0.000" meet2="12.350">
+            </Score>
+            <Score event="4" avgscore="26.900" meet1="13.650" meet2="13.250" startval="4.400" bscore="9.150" adj="0.100">
+               <JudgeScore id="1" score="9.300"/>
+               <JudgeScore id="2" score="9.000"/>
+            </Score>
+            <Score event="5" avgscore="25.800" meet1="13.450" meet2="12.350" startval="4.600" bscore="8.750" adj="0.100">
+               <JudgeScore id="1" score="8.800"/>
+               <JudgeScore id="2" score="8.700"/>
+            </Score>
+            <Score event="6" avgscore="26.200" meet1="13.100" meet2="13.100" startval="4.900" bscore="8.200">
+               <JudgeScore id="1" score="8.100"/>
+               <JudgeScore id="2" score="8.300"/>
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="8" order="8"/>
+            <Place event="1" rank="21" order="21"/>
+            <Place event="2" rank="19" order="19"/>
+            <Place event="3" rank="20" order="20"/>
+            <Place event="4" rank="7" order="7"/>
+            <Place event="5" rank="6" order="6"/>
+            <Place event="6" rank="3" order="3"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="38" FirstName="*Alexandru" LastName="Nitache" AgeGrp="Senior" USAGNum="499332">
+         <Scores>
+            <Score event="AA" avgscore="116.450"/>
+            <Score event="1" avgscore="13.250" meet1="0.000" meet2="13.250">
+            </Score>
+            <Score event="2" avgscore="10.650" meet1="0.000" meet2="10.650">
+            </Score>
+            <Score event="3" avgscore="24.150" meet1="12.050" meet2="12.100" startval="3.700" bscore="8.350">
+               <JudgeScore id="1" score="8.500"/>
+               <JudgeScore id="2" score="8.200"/>
+            </Score>
+            <Score event="4" avgscore="27.225" meet1="14.200" meet2="13.025" startval="4.800" bscore="9.400">
+               <JudgeScore id="1" score="9.300"/>
+               <JudgeScore id="2" score="9.500"/>
+            </Score>
+            <Score event="5" avgscore="27.200" meet1="13.700" meet2="13.500" startval="4.700" bscore="9.000">
+               <JudgeScore id="1" score="9.000"/>
+               <JudgeScore id="2" score="9.000"/>
+            </Score>
+            <Score event="6" avgscore="12.850" meet1="0.000" meet2="12.850">
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="9" order="9"/>
+            <Place event="1" rank="18" order="18"/>
+            <Place event="2" rank="26" order="26"/>
+            <Place event="3" rank="6" order="6"/>
+            <Place event="4" rank="4" order="4"/>
+            <Place event="5" rank="1" order="1"/>
+            <Place event="6" rank="19" order="19"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="47" FirstName="Erich" LastName="Upton" AgeGrp="Senior" USAGNum="447702">
+         <Scores>
+            <Score event="AA" avgscore="113.950"/>
+            <Score event="1" avgscore="26.200" meet1="13.100" meet2="13.100" startval="5.000" bscore="8.100">
+               <JudgeScore id="1" score="7.900"/>
+               <JudgeScore id="2" score="8.300"/>
+            </Score>
+            <Score event="2" avgscore="24.300" meet1="12.100" meet2="12.200" startval="4.700" bscore="7.400">
+               <JudgeScore id="1" score="7.600"/>
+               <JudgeScore id="2" score="7.200"/>
+            </Score>
+            <Score event="3" avgscore="24.200" meet1="12.100" meet2="12.100" startval="4.100" bscore="8.000">
+               <JudgeScore id="1" score="7.800"/>
+               <JudgeScore id="2" score="8.200"/>
+            </Score>
+            <Score event="4" avgscore="14.250" meet1="0.000" meet2="14.250">
+            </Score>
+            <Score event="5" avgscore="12.700" meet1="0.000" meet2="12.700">
+            </Score>
+            <Score event="6" avgscore="12.300" meet1="0.000" meet2="12.300">
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="10" order="10"/>
+            <Place event="1" rank="6" order="6"/>
+            <Place event="2" rank="7" order="7"/>
+            <Place event="3" rank="5" order="5"/>
+            <Place event="4" rank="11" order="11"/>
+            <Place event="5" rank="21" order="21"/>
+            <Place event="6" rank="21" order="21"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="31" FirstName="Kristian" LastName="Grahovski" AgeGrp="Senior" USAGNum="465114">
+         <Scores>
+            <Score event="AA" avgscore="113.150"/>
+            <Score event="1" avgscore="24.000" meet1="11.550" meet2="12.450" startval="4.800" bscore="6.750">
+               <JudgeScore id="1" score="6.600"/>
+               <JudgeScore id="2" score="6.900"/>
+            </Score>
+            <Score event="2" avgscore="13.500" meet1="0.000" meet2="13.500">
+            </Score>
+            <Score event="3" avgscore="12.250" meet1="0.000" meet2="12.250">
+            </Score>
+            <Score event="4" avgscore="12.650" meet1="0.000" meet2="12.650">
+            </Score>
+            <Score event="5" avgscore="24.750" meet1="12.500" meet2="12.250" startval="4.700" bscore="7.800">
+               <JudgeScore id="1" score="7.800"/>
+               <JudgeScore id="2" score="7.800"/>
+            </Score>
+            <Score event="6" avgscore="26.000" meet1="13.550" meet2="12.450" startval="4.900" bscore="8.650">
+               <JudgeScore id="1" score="8.800"/>
+               <JudgeScore id="2" score="8.500"/>
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="11" order="11"/>
+            <Place event="1" rank="13" order="13"/>
+            <Place event="2" rank="15" order="15"/>
+            <Place event="3" rank="22" order="22"/>
+            <Place event="4" rank="22" order="22"/>
+            <Place event="5" rank="10" order="10"/>
+            <Place event="6" rank="4" order="4"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="16" FirstName="*Nathan" LastName="Roman" AgeGrp="Senior" USAGNum="588105">
+         <Scores>
+            <Score event="AA" avgscore="112.700"/>
+            <Score event="1" avgscore="12.750" meet1="0.000" meet2="12.750">
+            </Score>
+            <Score event="2" avgscore="11.700" meet1="0.000" meet2="11.700">
+            </Score>
+            <Score event="3" avgscore="24.600" meet1="12.350" meet2="12.250" startval="4.100" bscore="8.250">
+               <JudgeScore id="1" score="8.100"/>
+               <JudgeScore id="2" score="8.400"/>
+            </Score>
+            <Score event="4" avgscore="26.000" meet1="13.700" meet2="12.300" startval="4.400" bscore="9.200" adj="0.100">
+               <JudgeScore id="1" score="9.200"/>
+               <JudgeScore id="2" score="9.200"/>
+            </Score>
+            <Score event="5" avgscore="24.500" meet1="12.350" meet2="12.150" startval="4.800" bscore="7.550">
+               <JudgeScore id="1" score="7.600"/>
+               <JudgeScore id="2" score="7.500"/>
+            </Score>
+            <Score event="6" avgscore="13.150" meet1="0.000" meet2="13.150">
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="12" order="12"/>
+            <Place event="1" rank="22" order="22"/>
+            <Place event="2" rank="22" order="22"/>
+            <Place event="3" rank="4" order="4"/>
+            <Place event="4" rank="8" order="8"/>
+            <Place event="5" rank="11" order="11"/>
+            <Place event="6" rank="18" order="18"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="4" FirstName="*David" LastName="Ramirez" AgeGrp="Senior" USAGNum="587826">
+         <Scores>
+            <Score event="AA" avgscore="111.700"/>
+            <Score event="1" avgscore="24.200" meet1="12.700" meet2="11.500" startval="4.900" bscore="7.800">
+               <JudgeScore id="1" score="7.800"/>
+               <JudgeScore id="2" score="7.800"/>
+            </Score>
+            <Score event="2" avgscore="13.000" meet1="0.000" meet2="13.000">
+            </Score>
+            <Score event="3" avgscore="11.800" meet1="0.000" meet2="11.800">
+            </Score>
+            <Score event="4" avgscore="12.550" meet1="0.000" meet2="12.550">
+            </Score>
+            <Score event="5" avgscore="26.050" meet1="13.350" meet2="12.700" startval="5.300" bscore="8.050">
+               <JudgeScore id="1" score="7.900"/>
+               <JudgeScore id="2" score="8.200"/>
+            </Score>
+            <Score event="6" avgscore="24.100" meet1="12.600" meet2="11.500" startval="4.300" bscore="8.300">
+               <JudgeScore id="1" score="8.400"/>
+               <JudgeScore id="2" score="8.200"/>
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="13" order="13"/>
+            <Place event="1" rank="12" order="12"/>
+            <Place event="2" rank="17" order="17"/>
+            <Place event="3" rank="24" order="24"/>
+            <Place event="4" rank="24" order="24"/>
+            <Place event="5" rank="5" order="5"/>
+            <Place event="6" rank="10" order="10"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="40" FirstName="*Dante" LastName="Reive" AgeGrp="Senior" USAGNum="956602">
+         <Scores>
+            <Score event="AA" avgscore="107.700"/>
+            <Score event="1" avgscore="24.700" meet1="12.900" meet2="11.800" startval="5.000" bscore="8.000" adj="-0.100">
+               <JudgeScore id="1" score="7.900"/>
+               <JudgeScore id="2" score="8.100"/>
+            </Score>
+            <Score event="2" avgscore="21.100" meet1="10.700" meet2="10.400" startval="3.100" bscore="7.600">
+               <JudgeScore id="1" score="7.700"/>
+               <JudgeScore id="2" score="7.500"/>
+            </Score>
+            <Score event="3" avgscore="12.950" meet1="0.000" meet2="12.950">
+            </Score>
+            <Score event="4" avgscore="12.650" meet1="0.000" meet2="12.650">
+            </Score>
+            <Score event="5" avgscore="11.400" meet1="0.000" meet2="11.400">
+            </Score>
+            <Score event="6" avgscore="24.900" meet1="13.250" meet2="11.650" startval="4.400" bscore="8.850">
+               <JudgeScore id="1" score="8.900"/>
+               <JudgeScore id="2" score="8.800"/>
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="14" order="14"/>
+            <Place event="1" rank="11" order="11"/>
+            <Place event="2" rank="10" order="10"/>
+            <Place event="3" rank="14" order="14"/>
+            <Place event="4" rank="22" order="23"/>
+            <Place event="5" rank="25" order="25"/>
+            <Place event="6" rank="8" order="8"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="28" FirstName="*Divier" LastName="Ramos" AgeGrp="Senior" USAGNum="551439">
+         <Scores>
+            <Score event="AA" avgscore="107.350"/>
+            <Score event="1" avgscore="26.150" meet1="12.900" meet2="13.250" startval="4.700" bscore="8.200">
+               <JudgeScore id="1" score="8.300"/>
+               <JudgeScore id="2" score="8.100"/>
+            </Score>
+            <Score event="2" avgscore="23.400" meet1="12.300" meet2="11.100" startval="3.600" bscore="8.700">
+               <JudgeScore id="1" score="8.800"/>
+               <JudgeScore id="2" score="8.600"/>
+            </Score>
+            <Score event="3" avgscore="21.400" meet1="10.750" meet2="10.650" startval="2.300" bscore="8.350" adj="0.100">
+               <JudgeScore id="1" score="8.200"/>
+               <JudgeScore id="2" score="8.500"/>
+            </Score>
+            <Score event="4" avgscore="13.100" meet1="0.000" meet2="13.100">
+            </Score>
+            <Score event="5" avgscore="11.950" meet1="0.000" meet2="11.950">
+            </Score>
+            <Score event="6" avgscore="11.350" meet1="0.000" meet2="11.350">
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="15" order="15"/>
+            <Place event="1" rank="7" order="7"/>
+            <Place event="2" rank="8" order="8"/>
+            <Place event="3" rank="9" order="9"/>
+            <Place event="4" rank="19" order="19"/>
+            <Place event="5" rank="24" order="24"/>
+            <Place event="6" rank="25" order="25"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="10" FirstName="*Justin" LastName="Park" AgeGrp="Senior" USAGNum="1003656">
+         <Scores>
+            <Score event="AA" avgscore="107.250"/>
+            <Score event="1" avgscore="11.300" meet1="0.000" meet2="11.300">
+            </Score>
+            <Score event="2" avgscore="10.400" meet1="0.000" meet2="10.400">
+            </Score>
+            <Score event="3" avgscore="23.350" meet1="12.300" meet2="11.050" startval="4.100" bscore="8.100" adj="0.100">
+               <JudgeScore id="1" score="8.300"/>
+               <JudgeScore id="2" score="7.900"/>
+            </Score>
+            <Score event="4" avgscore="26.950" meet1="13.300" meet2="13.650" startval="4.400" bscore="8.900">
+               <JudgeScore id="1" score="9.000"/>
+               <JudgeScore id="2" score="8.800"/>
+            </Score>
+            <Score event="5" avgscore="23.950" meet1="11.950" meet2="12.000" startval="4.100" bscore="7.850">
+               <JudgeScore id="1" score="8.000"/>
+               <JudgeScore id="2" score="7.700"/>
+            </Score>
+            <Score event="6" avgscore="11.300" meet1="0.000" meet2="11.300">
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="16" order="16"/>
+            <Place event="1" rank="25" order="25"/>
+            <Place event="2" rank="27" order="27"/>
+            <Place event="3" rank="7" order="7"/>
+            <Place event="4" rank="6" order="6"/>
+            <Place event="5" rank="12" order="12"/>
+            <Place event="6" rank="26" order="26"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="46" FirstName="Dallas" LastName="Hale" AgeGrp="Senior" USAGNum="397301">
+         <Scores>
+            <Score event="AA" avgscore="107.250"/>
+            <Score event="1" avgscore="22.700" meet1="11.350" meet2="11.350" startval="5.000" bscore="6.650" adj="-0.300">
+               <JudgeScore id="1" score="6.600"/>
+               <JudgeScore id="2" score="6.700"/>
+            </Score>
+            <Score event="2" avgscore="10.900" meet1="0.000" meet2="10.900">
+            </Score>
+            <Score event="3" avgscore="12.550" meet1="0.000" meet2="12.550">
+            </Score>
+            <Score event="4" avgscore="14.200" meet1="0.000" meet2="14.200">
+            </Score>
+            <Score event="5" avgscore="26.500" meet1="13.300" meet2="13.200" startval="5.200" bscore="8.100">
+               <JudgeScore id="1" score="8.200"/>
+               <JudgeScore id="2" score="8.000"/>
+            </Score>
+            <Score event="6" avgscore="20.400" meet1="9.300" meet2="11.100" startval="3.500" bscore="5.800">
+               <JudgeScore id="1" score="5.500"/>
+               <JudgeScore id="2" score="6.100"/>
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="17" order="17"/>
+            <Place event="1" rank="14" order="14"/>
+            <Place event="2" rank="25" order="25"/>
+            <Place event="3" rank="17" order="17"/>
+            <Place event="4" rank="12" order="12"/>
+            <Place event="5" rank="3" order="3"/>
+            <Place event="6" rank="14" order="14"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="19" FirstName="*Nartey" LastName="Brady" AgeGrp="Senior" USAGNum="620531">
+         <Scores>
+            <Score event="AA" avgscore="106.750"/>
+            <Score event="1" avgscore="12.300" meet1="0.000" meet2="12.300">
+            </Score>
+            <Score event="2" avgscore="9.250" meet1="0.000" meet2="9.250">
+            </Score>
+            <Score event="3" avgscore="9.800" meet1="0.000" meet2="9.800">
+            </Score>
+            <Score event="4" avgscore="28.000" meet1="14.275" meet2="13.725" startval="5.200" bscore="9.050" score="14.250" startval2="4.800" bscore2="9.400" adj2="0.100" score2="14.300">
+               <JudgeScore id="1" att="1" score="9.100"/>
+               <JudgeScore id="2" att="1" score="9.000"/>
+               <JudgeScore id="1" att="2" score="9.400"/>
+               <JudgeScore id="2" att="2" score="9.400"/>
+            </Score>
+            <Score event="5" avgscore="23.550" meet1="11.900" meet2="11.650" startval="4.000" bscore="7.800" adj="0.100">
+               <JudgeScore id="1" score="7.900"/>
+               <JudgeScore id="2" score="7.700"/>
+            </Score>
+            <Score event="6" avgscore="23.650" meet1="11.350" meet2="12.300" startval="4.200" bscore="7.150">
+               <JudgeScore id="1" score="7.200"/>
+               <JudgeScore id="2" score="7.100"/>
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="18" order="18"/>
+            <Place event="1" rank="23" order="23"/>
+            <Place event="2" rank="28" order="28"/>
+            <Place event="3" rank="26" order="26"/>
+            <Place event="4" rank="2" order="2"/>
+            <Place event="5" rank="13" order="13"/>
+            <Place event="6" rank="11" order="11"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="70" FirstName="*Brian" LastName="Solomon" AgeGrp="Senior" USAGNum="535215">
+         <Scores>
+            <Score event="AA" avgscore="105.150"/>
+            <Score event="1" avgscore="24.750" meet1="12.700" meet2="12.050" startval="5.100" bscore="7.900" adj="-0.300">
+               <JudgeScore id="1" score="7.800"/>
+               <JudgeScore id="2" score="8.000"/>
+            </Score>
+            <Score event="2" avgscore="22.650" meet1="12.100" meet2="10.550" startval="4.300" bscore="7.800">
+               <JudgeScore id="1" score="8.000"/>
+               <JudgeScore id="2" score="7.600"/>
+            </Score>
+            <Score event="3" avgscore="22.550" meet1="10.600" meet2="11.950" startval="3.900" bscore="6.700">
+               <JudgeScore id="1" score="6.700"/>
+               <JudgeScore id="2" score="6.700"/>
+            </Score>
+            <Score event="4" avgscore="12.850" meet1="0.000" meet2="12.850">
+            </Score>
+            <Score event="5" avgscore="10.500" meet1="0.000" meet2="10.500">
+            </Score>
+            <Score event="6" avgscore="11.850" meet1="0.000" meet2="11.850">
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="19" order="19"/>
+            <Place event="1" rank="10" order="10"/>
+            <Place event="2" rank="9" order="9"/>
+            <Place event="3" rank="8" order="8"/>
+            <Place event="4" rank="21" order="21"/>
+            <Place event="5" rank="26" order="26"/>
+            <Place event="6" rank="24" order="24"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="26" FirstName="Kameron" LastName="Nelson" AgeGrp="Senior" USAGNum="395105">
+         <Scores>
+            <Score event="AA" avgscore="100.500"/>
+            <Score event="1" avgscore="27.250" meet1="13.300" meet2="13.950" startval="5.800" bscore="7.800" adj="-0.300">
+               <JudgeScore id="1" score="8.000"/>
+               <JudgeScore id="2" score="7.600"/>
+            </Score>
+            <Score event="2" avgscore="11.350" meet1="0.000" meet2="11.350">
+            </Score>
+            <Score event="3" avgscore="12.300" meet1="0.000" meet2="12.300">
+            </Score>
+            <Score event="4" avgscore="13.875" meet1="0.000" meet2="13.875">
+            </Score>
+            <Score event="5" avgscore="23.450" meet1="12.050" meet2="11.400" startval="4.200" bscore="7.850">
+               <JudgeScore id="1" score="7.700"/>
+               <JudgeScore id="2" score="8.000"/>
+            </Score>
+            <Score event="6" avgscore="12.250" meet1="0.000" meet2="12.250">
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="20" order="20"/>
+            <Place event="1" rank="4" order="4"/>
+            <Place event="2" rank="23" order="23"/>
+            <Place event="3" rank="21" order="21"/>
+            <Place event="4" rank="15" order="15"/>
+            <Place event="5" rank="14" order="14"/>
+            <Place event="6" rank="22" order="22"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="27" FirstName="Jesse-Lee" LastName="Pakele" AgeGrp="Senior" USAGNum="486957">
+         <Scores>
+            <Score event="AA" avgscore="97.350"/>
+            <Score event="1" avgscore="13.950" meet1="0.000" meet2="13.950">
+            </Score>
+            <Score event="2" avgscore="11.350" meet1="0.000" meet2="11.350">
+            </Score>
+            <Score event="3" avgscore="12.500" meet1="0.000" meet2="12.500">
+            </Score>
+            <Score event="4" avgscore="13.150" meet1="0.000" meet2="13.150">
+            </Score>
+            <Score event="5" avgscore="25.350" meet1="12.800" meet2="12.550" startval="4.700" bscore="8.100">
+               <JudgeScore id="1" score="8.300"/>
+               <JudgeScore id="2" score="7.900"/>
+            </Score>
+            <Score event="6" avgscore="21.050" meet1="10.250" meet2="10.800" startval="3.100" bscore="7.050" adj="0.100">
+               <JudgeScore id="1" score="6.900"/>
+               <JudgeScore id="2" score="7.200"/>
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="21" order="21"/>
+            <Place event="1" rank="15" order="15"/>
+            <Place event="2" rank="24" order="24"/>
+            <Place event="3" rank="19" order="19"/>
+            <Place event="4" rank="18" order="18"/>
+            <Place event="5" rank="8" order="8"/>
+            <Place event="6" rank="12" order="12"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="41" FirstName="*Preston" LastName="Ngai" AgeGrp="Senior" USAGNum="585093">
+         <Scores>
+            <Score event="AA" avgscore="84.500"/>
+            <Score event="1" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="2" avgscore="13.450" meet1="0.000" meet2="13.450">
+            </Score>
+            <Score event="3" avgscore="13.150" meet1="0.000" meet2="13.150">
+            </Score>
+            <Score event="4" avgscore="24.600" meet1="13.650" meet2="10.950" startval="4.800" bscore="8.950" adj="-0.100">
+               <JudgeScore id="1" score="9.000"/>
+               <JudgeScore id="2" score="8.900"/>
+            </Score>
+            <Score event="5" avgscore="12.350" meet1="0.000" meet2="12.350">
+            </Score>
+            <Score event="6" avgscore="20.950" meet1="12.850" meet2="8.100" startval="5.000" bscore="7.850">
+               <JudgeScore id="1" score="7.800"/>
+               <JudgeScore id="2" score="7.900"/>
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="22" order="22"/>
+            <Place event="1" rank="26" order="31"/>
+            <Place event="2" rank="16" order="16"/>
+            <Place event="3" rank="13" order="13"/>
+            <Place event="4" rank="9" order="9"/>
+            <Place event="5" rank="22" order="22"/>
+            <Place event="6" rank="13" order="13"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="23" FirstName="Colt" LastName="Walker" AgeGrp="Senior" USAGNum="390652">
+         <Scores>
+            <Score event="AA" avgscore="77.900"/>
+            <Score event="1" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="2" avgscore="26.200" meet1="12.900" meet2="13.300" startval="5.200" bscore="7.700">
+               <JudgeScore id="1" score="7.600"/>
+               <JudgeScore id="2" score="7.800"/>
+            </Score>
+            <Score event="3" avgscore="12.600" meet1="0.000" meet2="12.600">
+            </Score>
+            <Score event="4" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="5" avgscore="14.050" meet1="0.000" meet2="14.050">
+            </Score>
+            <Score event="6" avgscore="25.050" meet1="12.950" meet2="12.100" startval="4.200" bscore="8.750">
+               <JudgeScore id="1" score="8.700"/>
+               <JudgeScore id="2" score="8.800"/>
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="23" order="23"/>
+            <Place event="1" rank="26" order="32"/>
+            <Place event="2" rank="2" order="2"/>
+            <Place event="3" rank="16" order="16"/>
+            <Place event="4" rank="25" order="32"/>
+            <Place event="5" rank="15" order="15"/>
+            <Place event="6" rank="7" order="7"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="9" FirstName="*Caden" LastName="Clinton" AgeGrp="Senior" USAGNum="562954">
+         <Scores>
+            <Score event="AA" avgscore="73.950"/>
+            <Score event="1" avgscore="12.800" meet1="0.000" meet2="12.800">
+            </Score>
+            <Score event="2" avgscore="12.650" meet1="0.000" meet2="12.650">
+            </Score>
+            <Score event="3" avgscore="10.000" meet1="0.000" meet2="10.000">
+            </Score>
+            <Score event="4" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="5" avgscore="26.300" meet1="13.050" meet2="13.250" startval="4.300" bscore="8.750">
+               <JudgeScore id="1" score="8.700"/>
+               <JudgeScore id="2" score="8.800"/>
+            </Score>
+            <Score event="6" avgscore="12.200" meet1="0.000" meet2="12.200">
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="24" order="24"/>
+            <Place event="1" rank="20" order="20"/>
+            <Place event="2" rank="18" order="18"/>
+            <Place event="3" rank="25" order="25"/>
+            <Place event="4" rank="25" order="31"/>
+            <Place event="5" rank="4" order="4"/>
+            <Place event="6" rank="23" order="23"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="33" FirstName="Crew" LastName="Bold" AgeGrp="Senior" USAGNum="443383">
+         <Scores>
+            <Score event="AA" avgscore="52.300"/>
+            <Score event="1" avgscore="26.900" meet1="13.650" meet2="13.250" startval="5.100" bscore="8.450" adj="0.100">
+               <JudgeScore id="1" score="8.500"/>
+               <JudgeScore id="2" score="8.400"/>
+            </Score>
+            <Score event="2" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="3" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="4" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="5" avgscore="12.200" meet1="0.000" meet2="12.200">
+            </Score>
+            <Score event="6" avgscore="13.200" meet1="0.000" meet2="13.200">
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="25" order="25"/>
+            <Place event="1" rank="5" order="5"/>
+            <Place event="2" rank="29" order="34"/>
+            <Place event="3" rank="27" order="35"/>
+            <Place event="4" rank="25" order="33"/>
+            <Place event="5" rank="23" order="23"/>
+            <Place event="6" rank="17" order="17"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="20" FirstName="Fuzzy" LastName="Benas" AgeGrp="Senior" USAGNum="441636">
+         <Scores>
+            <Score event="AA" avgscore="41.700"/>
+            <Score event="1" avgscore="13.600" meet1="0.000" meet2="13.600">
+            </Score>
+            <Score event="2" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="3" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="4" avgscore="28.100" meet1="14.200" meet2="13.900" startval="4.800" bscore="9.300" adj="0.100">
+               <JudgeScore id="1" score="9.400"/>
+               <JudgeScore id="2" score="9.200"/>
+            </Score>
+            <Score event="5" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="6" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="26" order="26"/>
+            <Place event="1" rank="17" order="17"/>
+            <Place event="2" rank="29" order="35"/>
+            <Place event="3" rank="27" order="32"/>
+            <Place event="4" rank="1" order="1"/>
+            <Place event="5" rank="27" order="33"/>
+            <Place event="6" rank="27" order="32"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="12" FirstName="Patrick" LastName="Hoopes" AgeGrp="Senior" USAGNum="478616">
+         <Scores>
+            <Score event="AA" avgscore="27.750"/>
+            <Score event="1" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="2" avgscore="27.750" meet1="13.950" meet2="13.800" startval="5.900" bscore="8.050">
+               <JudgeScore id="1" score="8.000"/>
+               <JudgeScore id="2" score="8.100"/>
+            </Score>
+            <Score event="3" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="4" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="5" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="6" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="27" order="27"/>
+            <Place event="1" rank="26" order="33"/>
+            <Place event="2" rank="1" order="1"/>
+            <Place event="3" rank="27" order="31"/>
+            <Place event="4" rank="25" order="35"/>
+            <Place event="5" rank="27" order="32"/>
+            <Place event="6" rank="27" order="31"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="36" FirstName="Brandon" LastName="Nguyen" AgeGrp="Senior" USAGNum="444862">
+         <Scores>
+            <Score event="AA" avgscore="27.600"/>
+            <Score event="1" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="2" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="3" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="4" avgscore="13.525" meet1="0.000" meet2="13.525">
+            </Score>
+            <Score event="5" avgscore="13.850" meet1="0.000" meet2="13.850">
+            </Score>
+            <Score event="6" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="28" order="28"/>
+            <Place event="1" rank="26" order="35"/>
+            <Place event="2" rank="29" order="33"/>
+            <Place event="3" rank="27" order="33"/>
+            <Place event="4" rank="17" order="17"/>
+            <Place event="5" rank="16" order="16"/>
+            <Place event="6" rank="27" order="33"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="54" FirstName="Matthew" LastName="Underhill" AgeGrp="Senior" USAGNum="625296">
+         <Scores>
+            <Score event="AA" avgscore="27.000"/>
+            <Score event="1" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="2" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="3" avgscore="27.000" meet1="13.650" meet2="13.350" startval="5.200" bscore="8.450">
+               <JudgeScore id="1" score="8.500"/>
+               <JudgeScore id="2" score="8.400"/>
+            </Score>
+            <Score event="4" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="5" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="6" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="29" order="29"/>
+            <Place event="1" rank="26" order="34"/>
+            <Place event="2" rank="29" order="32"/>
+            <Place event="3" rank="1" order="1"/>
+            <Place event="4" rank="25" order="34"/>
+            <Place event="5" rank="27" order="35"/>
+            <Place event="6" rank="27" order="35"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="52" FirstName="Parker" LastName="Thackston" AgeGrp="Senior" USAGNum="471446">
+         <Scores>
+            <Score event="AA" avgscore="14.150"/>
+            <Score event="1" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="2" avgscore="14.150" meet1="0.000" meet2="14.150">
+            </Score>
+            <Score event="3" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="4" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="5" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="6" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="30" order="30"/>
+            <Place event="1" rank="26" order="30"/>
+            <Place event="2" rank="11" order="11"/>
+            <Place event="3" rank="27" order="34"/>
+            <Place event="4" rank="25" order="30"/>
+            <Place event="5" rank="27" order="34"/>
+            <Place event="6" rank="27" order="34"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="51" FirstName="Ignacio" LastName="Yockers" AgeGrp="Senior" USAGNum="432063">
+         <Scores>
+            <Score event="AA" avgscore="14.050"/>
+            <Score event="1" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="2" avgscore="14.050" meet1="0.000" meet2="14.050">
+            </Score>
+            <Score event="3" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="4" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="5" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="6" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="31" order="31"/>
+            <Place event="1" rank="26" order="27"/>
+            <Place event="2" rank="12" order="12"/>
+            <Place event="3" rank="27" order="28"/>
+            <Place event="4" rank="25" order="26"/>
+            <Place event="5" rank="27" order="31"/>
+            <Place event="6" rank="27" order="28"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="3" FirstName="*Brandon" LastName="Dang" AgeGrp="Senior" USAGNum="645690">
+         <Scores>
+            <Score event="AA" avgscore="14.000"/>
+            <Score event="1" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="2" avgscore="14.000" meet1="0.000" meet2="14.000">
+            </Score>
+            <Score event="3" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="4" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="5" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="6" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="32" order="32"/>
+            <Place event="1" rank="26" order="26"/>
+            <Place event="2" rank="13" order="13"/>
+            <Place event="3" rank="27" order="27"/>
+            <Place event="4" rank="25" order="27"/>
+            <Place event="5" rank="27" order="28"/>
+            <Place event="6" rank="27" order="27"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="58" FirstName="*Kyle" LastName="Jordan" AgeGrp="Senior" USAGNum="647361">
+         <Scores>
+            <Score event="AA" avgscore="13.750"/>
+            <Score event="1" avgscore="13.750" meet1="0.000" meet2="13.750">
+            </Score>
+            <Score event="2" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="3" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="4" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="5" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="6" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="33" order="33"/>
+            <Place event="1" rank="16" order="16"/>
+            <Place event="2" rank="29" order="29"/>
+            <Place event="3" rank="27" order="30"/>
+            <Place event="4" rank="25" order="28"/>
+            <Place event="5" rank="27" order="27"/>
+            <Place event="6" rank="27" order="30"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="29" FirstName="Alex" LastName="Diab" AgeGrp="Senior" USAGNum="120532">
+         <Scores>
+            <Score event="AA" avgscore="13.700"/>
+            <Score event="1" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="2" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="3" avgscore="13.700" meet1="0.000" meet2="13.700">
+            </Score>
+            <Score event="4" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="5" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="6" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="34" order="34"/>
+            <Place event="1" rank="26" order="28"/>
+            <Place event="2" rank="29" order="31"/>
+            <Place event="3" rank="10" order="10"/>
+            <Place event="4" rank="25" order="29"/>
+            <Place event="5" rank="27" order="29"/>
+            <Place event="6" rank="27" order="29"/>
+         </Places>
+      </Athlete>
+      <Athlete Type="ARTMSR" CompNum="57" FirstName="Kelton" LastName="Christiansen" AgeGrp="Senior" USAGNum="456132">
+         <Scores>
+            <Score event="AA" avgscore="13.250"/>
+            <Score event="1" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="2" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="3" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="4" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="5" avgscore="0.000" meet1="0.000" meet2="0.000">
+            </Score>
+            <Score event="6" avgscore="13.250" meet1="0.000" meet2="13.250">
+            </Score>
+         </Scores>
+         <Places>
+            <Place event="AA" rank="35" order="35"/>
+            <Place event="1" rank="26" order="29"/>
+            <Place event="2" rank="29" order="30"/>
+            <Place event="3" rank="27" order="29"/>
+            <Place event="4" rank="25" order="25"/>
+            <Place event="5" rank="27" order="30"/>
+            <Place event="6" rank="16" order="16"/>
+         </Places>
+      </Athlete>
+   </AthleteResults>
+</MeetResultsMsg>
